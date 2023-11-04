@@ -1,5 +1,5 @@
 # Vetevoog.ee
 Test project with: 
 * MarkUp content documents
-* frontend: VUE + truescript + vuetify
+* frontend: VUE + typescript + vuetify
 * backend python + Fastapi + POSTGRE
