@@ -1,3 +1,1 @@
-# Vetevoog.ee
-
-# Test project
+# just for testing
